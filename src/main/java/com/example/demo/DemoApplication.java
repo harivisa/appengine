@@ -11,6 +11,6 @@ public class DemoApplication {
 	}
         @GetMapping("/")
         public String hello() {
-                   return "hello world!";
+                   return "Welcome to Amiedu website!";
         }
 }
